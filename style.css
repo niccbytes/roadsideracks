@@ -6,3 +6,13 @@ body {
     margin-top: 56px;
     max-width: 1000px;
 }
+
+
+
+.card-text {
+    font-size: 18px; /* Adjust the font size of the card text as needed */
+}
+
+.card-title {
+    font-size: 20px; /* Adjust the font size of the card title as needed */
+}
